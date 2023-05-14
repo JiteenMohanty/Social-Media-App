@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Social Media</string>
+
+    <string name="home">Home</string>
+    <string name="add">Add</string>
+    <string name="notification">Notification</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="add_frag">Hello Add fragment</string>
+    <string name="notification_frag">Hello Notification fragment</string>
+    <string name="search_frag">Hello Search fragment</string>
+    <string name="profile_frag">Hello Profile fragment</string>
+    <string name="home_frag">Hello Home fragment</string>
+
+
+    <string name="home_heading">Discover</string>
+
+</resources>

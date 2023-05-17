@@ -13,8 +13,12 @@
     <string name="search_frag">Hello Search fragment</string>
     <string name="profile_frag">Hello Profile fragment</string>
     <string name="home_frag">Hello Home fragment</string>
+    <string name="addStory">Add Your Story</string>
+    <string name="createStory">Create Your Story</string>
+    <string name="storyType">Type of Story</string>
 
 
     <string name="home_heading">Discover</string>
+    <string name="name">User</string>
 
 </resources>
